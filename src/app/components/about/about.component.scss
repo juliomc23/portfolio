@@ -1,0 +1,33 @@
+.about_section {
+  display: flex;
+  gap: 2rem;
+  padding: 0 2rem;
+
+  .about {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    justify-content: center;
+    width: 60dvw;
+
+    .paragraph {
+      color: #e1e1e1;
+    }
+
+    .title {
+      font-size: 2rem;
+      color: #004aad;
+      margin-bottom: 1rem;
+    }
+
+
+  }
+
+  .photo {
+    width: 15rem;
+  }
+}
+
+.strong {
+  color: red;
+}

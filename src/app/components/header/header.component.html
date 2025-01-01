@@ -1,0 +1,24 @@
+<header class="header">
+  <h1>< jmDev /></h1>
+  <nav class="nav">
+    <app-links />
+    <p-dropdown
+      [options]="selectOptions"
+      optionLabel="name"
+      (onChange)="changeLanguage($event)"
+    >
+      <ng-template let-language pTemplate="item">
+        <div class="custom-item">
+          <span class="emoji">{{ language.icon }}</span>
+          {{ language.name }}
+        </div>
+      </ng-template>
+      <ng-template let-language pTemplate="selectedItem">
+        <div class="custom-selected-item">
+          <span class="icon">{{ language.icon }}</span>
+          {{ language.name }}
+        </div>
+      </ng-template>
+    </p-dropdown>
+  </nav>
+</header>

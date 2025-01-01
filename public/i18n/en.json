@@ -1,0 +1,16 @@
+{
+  "ABOUT_LINK": "About me",
+  "PROJECTS_LINK": "Projects",
+  "CONTACT_LINK": "Contact",
+  "HERO": {
+    "ROLE": "Full-Stack Developer",
+    "DESCRIPTION": "Creating web applications to solve problems and improve user experience."
+  },
+  "ABOUT": {
+    "title": "About Me",
+    "intro": "Hi! I’m <strong>Julio Macías Caldera</strong>, a <strong>Full-Stack Developer</strong> currently focusing on <strong>frontend</strong> development. Although I’m currently focused on the visual part and user experience, my curiosity about programming has led me to explore both <strong>frontend</strong> and <strong>backend</strong>. I’m passionate about optimizing performance and ensuring that the code is clean, efficient, and delivers a seamless user experience.",
+    "story": "My journey started as a <strong>Systems Administrator</strong>, which gave me the understanding of how everything fits behind the screen before diving into the world of <strong>web programming</strong>. Throughout my career, I have worked with technologies like <strong>HTML</strong>, <strong>CSS</strong>, <strong>React</strong>, <strong>Angular</strong>, and <strong>TypeScript</strong>, and I’m always looking to improve my skills in every project.",
+    "personality": "I consider myself a <strong>creative</strong> yet <strong>detail-oriented</strong> person, with a technical approach and always looking for solutions to improve the quality and efficiency of the code. Outside of work, I love <strong>sports</strong>, <strong>video games</strong>, <strong>board games</strong>, and enjoying a good meal, which keeps me balanced and motivated.",
+    "cta": "If you like what you see in my portfolio or want to collaborate, feel free to <a href=\"#contact\">contact me</a>. I’m ready to help bring your ideas to life!"
+  }
+}

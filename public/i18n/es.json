@@ -1,0 +1,16 @@
+{
+  "ABOUT_LINK": "Sobre mi",
+  "PROJECTS_LINK": "Proyectos",
+  "CONTACT_LINK": "Contacto",
+  "HERO": {
+    "ROLE": "Desarrollador Full-Stack",
+    "DESCRIPTION": "Creando apliaciones web para solventar problemas y mejorar la experiencia del usuario."
+  },
+  "ABOUT": {
+    "title": "Sobre mí",
+    "intro": "¡Hola! Soy <strong>Julio Macías Caldera</strong>, <strong>Full-Stack Developer</strong> con un enfoque actual en el desarrollo <strong>frontend</strong>. Aunque ahora me centro en la parte visual y la experiencia del usuario, mi curiosidad por la programación me ha llevado a explorar tanto el <strong>frontend</strong> como el <strong>backend</strong>.",
+    "story": "Mi camino comenzó como <strong>Administrador de Sistemas</strong>, lo que me permitió entender cómo encaja todo detrás de la pantalla antes de sumergirme de lleno en el mundo de la <strong>programación web</strong>. A lo largo de mi carrera, he trabajado con tecnologías como <strong>HTML</strong>, <strong>CSS</strong>, <strong>React</strong>, <strong>Angular</strong> y <strong>TypeScript</strong>, y siempre estoy buscando mejorar mis habilidades en cada proyecto.",
+    "personality": "Me considero una persona <strong>creativa</strong> pero <strong>detallista</strong>, con un enfoque técnico y siempre buscando soluciones para mejorar la calidad y la eficiencia del código. Fuera del trabajo, me encanta <strong>el deporte</strong>, los <strong>videojuegos</strong>, los <strong>juegos de mesa</strong> y disfrutar de una buena comida.",
+    "cta": "Si te interesa lo que ves en mi portfolio o quieres colaborar, no dudes en <a href=\"#contact\">contactarme</a>. ¡Estoy listo para ayudar a que tus ideas cobren vida!"
+  }
+}
